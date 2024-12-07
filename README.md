@@ -10,7 +10,7 @@ A simple React app that fetches and displays a GitHub user's details by entering
 - **Responsive Design**: Clean and simple UI.
 
 ## Give it try: 
-Live on : [Find On Github](https://kirtanpatel01.github.io/find-on-github/)
+Live on : <a href="https://kirtanpatel01.github.io/find-on-github/" target="_blank">Find on Github</a>
 
 ## Demo
 
