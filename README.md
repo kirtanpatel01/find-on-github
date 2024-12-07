@@ -1,8 +1,28 @@
-# React + Vite
+# GitHub User Fetcher
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A simple React app that fetches and displays a GitHub user's details by entering their username. This project demonstrates React hooks, API integration using Axios, and a responsive UI with loading spinners.
 
-Currently, two official plugins are available:
+## Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- **Search GitHub Users**: Input a username to fetch their profile details.
+- **Loading Spinner**: Displays a spinner while fetching data.
+- **Error Handling**: Handles errors gracefully, such as when a user is not found.
+- **Responsive Design**: Clean and simple UI.
+
+## Demo
+
+![Demo](./public/image.png) <!-- Replace with an actual GIF/Screenshot link -->
+
+## Technologies Used
+
+- React
+- Axios
+- CSS (Inline styles and TailwindCSS)
+
+---
+
+## Installation
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/your-username/github-user-fetcher.git
